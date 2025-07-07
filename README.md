@@ -4,9 +4,9 @@
 Este repositorio contiene ejercicios prácticos desarrollados en Python como parte de mi formación en análisis de datos y automatización de procesos.
 
 🚀 **Tecnologías usadas:**  
-- Python 
-- pandas
-- matplotlib
+- Python  
+- pandas  
+- matplotlib  
 - seaborn
 
 📂 **Contenido:**  
@@ -24,3 +24,4 @@ Aplicar mis conocimientos para resolver problemas reales mediante programación 
 [LinkedIn](https://www.linkedin.com/in/jorgeluiscarvajal)
 
 ---
+
