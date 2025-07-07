@@ -4,7 +4,7 @@
 Este repositorio contiene ejercicios prácticos desarrollados en Python como parte de mi formación en análisis de datos y automatización de procesos.
 
 🚀 **Tecnologías usadas:**  
-- Python
+- Python 
 - pandas
 - matplotlib
 - seaborn
